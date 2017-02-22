@@ -7,3 +7,4 @@ There are three groups of files:
 2: Testfiles, containing examples that can be used to make sure the program runs properly.
 3: Information files, including a read-me providing instructions and a 'principles' document explaining the underlying image analysis.
 Each group of files is provied as a .zip archive.
+Finally -- a .pdf of Yang et al. 2017 is provided for reference. Thanks. TB
